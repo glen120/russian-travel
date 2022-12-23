@@ -1,8 +1,26 @@
 .cover__text {
-    position: absolute;
+    padding: 245px 0;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     z-index: 1;
+}
+
+@media (max-width: 1024px) {
+    .cover__text {
+        padding: 195px 0;
+    }
+}
+
+@media (max-width: 768px) {
+    .cover__text {
+        padding: 115px 0;
+    }
+}
+
+@media (max-width: 425px) {
+    .cover__text {
+        padding: 33px 0;
+    }
 }
