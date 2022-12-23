@@ -5,7 +5,7 @@
     flex-direction: column;
 }
 
-@media (max-width: 1080px) {
+@media (max-width: 1024px) {
     .places {
         max-width: calc(100% - 96px);
     }

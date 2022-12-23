@@ -9,22 +9,11 @@
 @media (max-width: 768px) {
     .footer {
         max-width: calc(100% - 48px);
-    }
-}
-
-@media (max-width: 710px) {
-    .footer {
         align-items: end;
     }
 }
 
-@media (max-width: 440px) {
-    .footer {
-        max-width: calc(100% - 24px);
-    }
-}
-
-@media (max-width: 425px) {
+@media (max-width: 480px) {
     .footer {
         max-width: 186px;
         margin: 0 0 24px 16px;

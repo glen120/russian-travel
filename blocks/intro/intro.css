@@ -6,7 +6,7 @@
     align-items: start;
 }
 
-@media (max-width: 1080px) {
+@media (max-width: 1024px) {
     .intro {
         max-width: calc(100% - 96px);
     }

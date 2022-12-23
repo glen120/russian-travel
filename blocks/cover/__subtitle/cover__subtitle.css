@@ -7,7 +7,7 @@
     text-align: center;
 }
 
-@media (max-width: 520px) {
+@media (max-width: 560px) {
     .cover__subtitle {
         max-width: 288px;
         margin: 16px 0 0;

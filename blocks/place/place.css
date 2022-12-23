@@ -26,13 +26,13 @@
     }
 }
 
-@media (max-width: 640px) {
+@media (max-width: 670px) {
     .place {
         grid-template-columns: minmax(auto, 240px) 1fr;
     }
 }
 
-@media (max-width: 530px) {
+@media (max-width: 560px) {
     .place {
         margin: 0 0 50px;
         grid-template-columns: 1fr;
